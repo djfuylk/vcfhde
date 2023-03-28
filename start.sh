@@ -1,7 +1,7 @@
 #!/bin/sh
 
 #请修改为自己的UUID
-export UUID=22257b9e-237e-41ba-9c65-6ba00dccd469
+export UUID=9459bef6-dd0f-4931-97c3-3d8f30d78271
 
 #请修改为自己设置的伪装站，不要带https://
 export ProxySite=arsenalfclatestnews.com
